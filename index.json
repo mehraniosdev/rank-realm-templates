@@ -13,7 +13,7 @@
           "id": "pizza_toppings",
           "title": "Pizza Toppings",
           "description": "Rank classic and controversial pizza toppings.",
-          "iconName": "takeoutbag.and.cup.and.straw.fill",
+          "imageURLString": "https://images.unsplash.com/photo-1572552635104-daf938e0aa1f??w=256&h=256&fit=crop&fm=webp",
           "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/pizza_toppings.json",
           "isForProMember": false,
           "isNew": true,
