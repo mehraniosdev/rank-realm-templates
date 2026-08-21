@@ -3,28 +3,7 @@
     {
       "id": "gaming",
       "name": "Gaming",
-      "templates": [
-        {
-          "id": "game_genres",
-          "title": "Video Game Genres",
-          "description": "Rank the best gaming genres from RPGs to Roguelikes.",
-          "iconName": "gamecontroller.fill",
-          "detailURLString": "https://raw.githubusercontent.com/your-username/your-repo/main/templates/game_genres.json",
-          "isForProMember": false,
-          "isNew": true,
-          "addedDate": "2026-08-18T14:30:00Z"
-        },
-        {
-          "id": "gaming_traversal",
-          "title": "Traversal Mechanics",
-          "description": "Grappling hooks, double jumps, gliders, and mounts.",
-          "iconName": "figure.run",
-          "detailURLString": "https://raw.githubusercontent.com/your-username/your-repo/main/templates/gaming_traversal.json",
-          "isForProMember": true,
-          "isNew": false,
-          "addedDate": "2026-08-05T09:00:00Z"
-        }
-      ]
+      "templates": []
     },
     {
       "id": "food_and_drink",
@@ -33,98 +12,34 @@
         {
           "id": "pizza_toppings",
           "title": "Pizza Toppings",
-          "description": "Pepperoni, pineapple, mushrooms, and ultimate debate items.",
+          "description": "Rank classic and controversial pizza toppings.",
           "iconName": "takeoutbag.and.cup.and.straw.fill",
-          "detailURLString": "https://raw.githubusercontent.com/your-username/your-repo/main/templates/pizza_toppings.json",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/pizza_toppings.json",
           "isForProMember": false,
           "isNew": true,
-          "addedDate": "2026-08-20T10:00:00Z"
-        },
-        {
-          "id": "coffee_drinks",
-          "title": "Coffee Specialties",
-          "description": "Espresso, cold brew, cappuccinos, and macchiatos.",
-          "iconName": "cup.and.saucer.fill",
-          "detailURLString": "https://raw.githubusercontent.com/your-username/your-repo/main/templates/coffee_drinks.json",
-          "isForProMember": false,
-          "isNew": false,
-          "addedDate": "2026-07-25T11:15:00Z"
+          "addedDate": "2026-08-21T10:00:00Z"
         }
       ]
     },
     {
       "id": "pop_culture",
       "name": "Pop Culture & Movies",
-      "templates": [
-        {
-          "id": "marvel_superheroes",
-          "title": "Marvel Superheroes",
-          "description": "Rank top MCU heroes (Text-only titles).",
-          "iconName": "star.fill",
-          "detailURLString": "https://raw.githubusercontent.com/your-username/your-repo/main/templates/marvel_superheroes.json",
-          "isForProMember": true,
-          "isNew": false,
-          "addedDate": "2026-08-10T16:00:00Z"
-        },
-        {
-          "id": "middle_earth_characters",
-          "title": "Middle-earth Characters",
-          "description": "Most powerful characters in Tolkien's lore (Text-only).",
-          "iconName": "shield.fill",
-          "detailURLString": "https://raw.githubusercontent.com/your-username/your-repo/main/templates/middle_earth_characters.json",
-          "isForProMember": true,
-          "isNew": true,
-          "addedDate": "2026-08-19T08:00:00Z"
-        }
-      ]
+      "templates": []
     },
     {
       "id": "animals_and_nature",
       "name": "Animals & Nature",
-      "templates": [
-        {
-          "id": "cat_breeds",
-          "title": "Popular Cat Breeds",
-          "description": "Maine Coons, Siameses, Ragdolls, and Scottish Folds.",
-          "iconName": "cat.fill",
-          "detailURLString": "https://raw.githubusercontent.com/your-username/your-repo/main/templates/cat_breeds.json",
-          "isForProMember": false,
-          "isNew": false,
-          "addedDate": "2026-08-01T12:00:00Z"
-        }
-      ]
+      "templates": []
     },
     {
       "id": "tech_and_dev",
       "name": "Tech & Software",
-      "templates": [
-        {
-          "id": "programming_languages",
-          "title": "Programming Languages",
-          "description": "Swift, Python, Rust, C++, and TypeScript.",
-          "iconName": "terminal.fill",
-          "detailURLString": "https://raw.githubusercontent.com/your-username/your-repo/main/templates/programming_languages.json",
-          "isForProMember": false,
-          "isNew": false,
-          "addedDate": "2026-07-15T18:00:00Z"
-        }
-      ]
+      "templates": []
     },
     {
       "id": "lifestyle_and_fitness",
       "name": "Lifestyle & Fitness",
-      "templates": [
-        {
-          "id": "gym_exercises",
-          "title": "Compound Gym Exercises",
-          "description": "Deadlifts, squats, bench press, and pull-ups.",
-          "iconName": "figure.cross.training",
-          "detailURLString": "https://raw.githubusercontent.com/your-username/your-repo/main/templates/gym_exercises.json",
-          "isForProMember": false,
-          "isNew": true,
-          "addedDate": "2026-08-17T07:45:00Z"
-        }
-      ]
+      "templates": []
     },
     {
       "id": "travel_and_places",
