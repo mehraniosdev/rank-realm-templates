@@ -1,0 +1,37 @@
+{
+  "id": "horror_movies",
+  "title": "Classic Horror Movies",
+  "defaultTiers": [
+    { "name": "God Tier", "hexColor": "#FF2D55", "orderIndex": 0 },
+    { "name": "Great", "hexColor": "#FF9500", "orderIndex": 1 },
+    { "name": "Watchable", "hexColor": "#FFCC00", "orderIndex": 2 },
+    { "name": "Overrated", "hexColor": "#8E8E93", "orderIndex": 3 }
+  ],
+  "items": [
+    {
+      "title": "The Shining",
+      "imageURLString": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=128&h=128&fit=crop&fm=webp",
+      "isTextOnly": false
+    },
+    {
+      "title": "Halloween",
+      "imageURLString": "https://images.unsplash.com/photo-1508361001413-7a9dca21d08a?w=128&h=128&fit=crop&fm=webp",
+      "isTextOnly": false
+    },
+    {
+      "title": "Psycho",
+      "imageURLString": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=128&h=128&fit=crop&fm=webp",
+      "isTextOnly": false
+    },
+    {
+      "title": "Alien",
+      "imageURLString": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=128&h=128&fit=crop&fm=webp",
+      "isTextOnly": false
+    },
+    {
+      "title": "The Thing",
+      "imageURLString": "https://images.unsplash.com/photo-1483683804023-6ccdb62f86ef?w=128&h=128&fit=crop&fm=webp",
+      "isTextOnly": false
+    }
+  ]
+}

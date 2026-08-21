@@ -1,0 +1,44 @@
+{
+  "id": "programming_languages",
+  "title": "Programming Languages",
+  "defaultTiers": [
+    { "name": "S", "hexColor": "#FF3B30", "orderIndex": 0 },
+    { "name": "A", "hexColor": "#FF9500", "orderIndex": 1 },
+    { "name": "B", "hexColor": "#FFCC00", "orderIndex": 2 },
+    { "name": "C", "hexColor": "#34C759", "orderIndex": 3 },
+    { "name": "D", "hexColor": "#30B0C7", "orderIndex": 4 },
+    { "name": "F", "hexColor": "#8E8E93", "orderIndex": 5 }
+  ],
+  "items": [
+    {
+      "title": "Swift",
+      "imageURLString": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?w=128&h=128&fit=crop&fm=webp",
+      "isTextOnly": false
+    },
+    {
+      "title": "Python",
+      "imageURLString": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=128&h=128&fit=crop&fm=webp",
+      "isTextOnly": false
+    },
+    {
+      "title": "TypeScript",
+      "imageURLString": "https://images.unsplash.com/photo-1516116211223-4c7142b2936c?w=128&h=128&fit=crop&fm=webp",
+      "isTextOnly": false
+    },
+    {
+      "title": "Rust",
+      "imageURLString": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=128&h=128&fit=crop&fm=webp",
+      "isTextOnly": false
+    },
+    {
+      "title": "C++",
+      "imageURLString": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=128&h=128&fit=crop&fm=webp",
+      "isTextOnly": false
+    },
+    {
+      "title": "Go",
+      "imageURLString": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=128&h=128&fit=crop&fm=webp",
+      "isTextOnly": false
+    }
+  ]
+}

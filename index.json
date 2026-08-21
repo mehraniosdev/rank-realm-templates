@@ -13,10 +13,10 @@
           "id": "pizza_toppings",
           "title": "Pizza Toppings",
           "description": "Rank classic and controversial pizza toppings.",
-          "imageURLString": "https://images.unsplash.com/photo-1572552635104-daf938e0aa1f??w=256&h=256&fit=crop&fm=webp",
-          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/pizza_toppings.json",
+          "imageURLString": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=128&h=128&fit=crop&fm=webp",
+          "detailURLString": "https://cdn.jsdelivr.net/gh/mehraniosdev/rank-realm-templates@main/templates/pizza_toppings.json",
           "isForProMember": false,
-          "isNew": true,
+          "isNew": false,
           "addedDate": "2026-08-21T10:00:00Z"
         }
       ]
@@ -24,7 +24,18 @@
     {
       "id": "pop_culture",
       "name": "Pop Culture & Movies",
-      "templates": []
+      "templates": [
+        {
+          "id": "horror_movies",
+          "title": "Classic Horror Movies",
+          "description": "Rank iconic horror films from classic cinema to modern hits.",
+          "imageURLString": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=128&h=128&fit=crop&fm=webp",
+          "detailURLString": "https://cdn.jsdelivr.net/gh/mehraniosdev/rank-realm-templates@main/templates/horror_movies.json",
+          "isForProMember": false,
+          "isNew": true,
+          "addedDate": "2026-08-21T12:00:00Z"
+        }
+      ]
     },
     {
       "id": "animals_and_nature",
@@ -34,7 +45,18 @@
     {
       "id": "tech_and_dev",
       "name": "Tech & Software",
-      "templates": []
+      "templates": [
+        {
+          "id": "programming_languages",
+          "title": "Programming Languages",
+          "description": "Rank popular languages for web, mobile, and backend development.",
+          "imageURLString": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=128&h=128&fit=crop&fm=webp",
+          "detailURLString": "https://cdn.jsdelivr.net/gh/mehraniosdev/rank-realm-templates@main/templates/programming_languages.json",
+          "isForProMember": false,
+          "isNew": true,
+          "addedDate": "2026-08-21T12:30:00Z"
+        }
+      ]
     },
     {
       "id": "lifestyle_and_fitness",
