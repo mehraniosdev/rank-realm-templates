@@ -1,0 +1,39 @@
+{
+    "id": "mobile_dev_frameworks",
+    "title": "Mobile UI Frameworks",
+    "isActive": true,
+    "defaultTiers": [
+      { "name": "S", "hexColor": "#FF3B30", "orderIndex": 0 },
+      { "name": "A", "hexColor": "#FF9500", "orderIndex": 1 },
+      { "name": "B", "hexColor": "#FFCC00", "orderIndex": 2 },
+      { "name": "C", "hexColor": "#34C759", "orderIndex": 3 },
+      { "name": "D", "hexColor": "#30B0C7", "orderIndex": 4 },
+      { "name": "F", "hexColor": "#8E8E93", "orderIndex": 5 }
+    ],
+    "items": [
+      { "title": "SwiftUI", "imageURLString": null, "isActive": true },
+      { "title": "Jetpack Compose", "imageURLString": null, "isActive": true },
+      { "title": "Flutter", "imageURLString": null, "isActive": true },
+      { "title": "React Native", "imageURLString": null, "isActive": true },
+      { "title": "UIKit", "imageURLString": null, "isActive": true },
+      { "title": "Android View System (XML)", "imageURLString": null, "isActive": true },
+      { "title": "Ionic", "imageURLString": null, "isActive": true },
+      { "title": ".NET MAUI", "imageURLString": null, "isActive": true },
+      { "title": "Xamarin", "imageURLString": null, "isActive": true },
+      { "title": "Expo", "imageURLString": null, "isActive": true },
+      { "title": "Apache Cordova", "imageURLString": null, "isActive": true },
+      { "title": "NativeScript", "imageURLString": null, "isActive": true },
+      { "title": "KMP (Kotlin Multiplatform UI)", "imageURLString": null, "isActive": true },
+      { "title": "Framework7", "imageURLString": null, "isActive": true },
+      { "title": "Quasar", "imageURLString": null, "isActive": true },
+      { "title": "Capacitor", "imageURLString": null, "isActive": true },
+      { "title": "Corona SDK / Solar2D", "imageURLString": null, "isActive": true },
+      { "title": "Cocos2d-x", "imageURLString": null, "isActive": true },
+      { "title": "Unity (Mobile UI)", "imageURLString": null, "isActive": true },
+      { "title": "Unreal Engine (Mobile UI)", "imageURLString": null, "isActive": true },
+      { "title": "Onsen UI", "imageURLString": null, "isActive": true },
+      { "title": "Sencha Touch", "imageURLString": null, "isActive": true },
+      { "title": "Appcelerator Titanium", "imageURLString": null, "isActive": true },
+      { "title": "Qt for Mobile", "imageURLString": null, "isActive": true }
+    ]
+  }

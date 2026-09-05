@@ -1,0 +1,42 @@
+{
+    "id": "superhero_movies",
+    "title": "Superhero Franchises",
+    "isActive": true,
+    "defaultTiers": [
+      { "name": "S", "hexColor": "#FF3B30", "orderIndex": 0 },
+      { "name": "A", "hexColor": "#FF9500", "orderIndex": 1 },
+      { "name": "B", "hexColor": "#FFCC00", "orderIndex": 2 },
+      { "name": "C", "hexColor": "#34C759", "orderIndex": 3 },
+      { "name": "D", "hexColor": "#30B0C7", "orderIndex": 4 },
+      { "name": "F", "hexColor": "#8E8E93", "orderIndex": 5 }
+    ],
+    "items": [
+      { "title": "The Dark Knight Trilogy", "imageURLString": null, "isActive": true },
+      { "title": "Marvel Cinematic Universe (MCU)", "imageURLString": null, "isActive": true },
+      { "title": "Spider-Man (Sam Raimi Trilogy)", "imageURLString": null, "isActive": true },
+      { "title": "Spider-Verse Animated Series", "imageURLString": null, "isActive": true },
+      { "title": "X-Men Series", "imageURLString": null, "isActive": true },
+      { "title": "Superman (1978-1987)", "imageURLString": null, "isActive": true },
+      { "title": "DCEU (Snyderverse)", "imageURLString": null, "isActive": true },
+      { "title": "Deadpool Series", "imageURLString": null, "isActive": true },
+      { "title": "The Batman (Matt Reeves)", "imageURLString": null, "isActive": true },
+      { "title": "Guardians of the Galaxy Trilogy", "imageURLString": null, "isActive": true },
+      { "title": "The Incredibles Series", "imageURLString": null, "isActive": true },
+      { "title": "Hellboy Series", "imageURLString": null, "isActive": true },
+      { "title": "Blade Trilogy", "imageURLString": null, "isActive": true },
+      { "title": "Wolverine Solo Trilogy", "imageURLString": null, "isActive": true },
+      { "title": "The Amazing Spider-Man Series", "imageURLString": null, "isActive": true },
+      { "title": "Fantastic Four Series", "imageURLString": null, "isActive": true },
+      { "title": "Unbreakable Trilogy (M. Night Shyamalan)", "imageURLString": null, "isActive": true },
+      { "title": "Kick-Ass Series", "imageURLString": null, "isActive": true },
+      { "title": "Teenage Mutant Ninja Turtles Series", "imageURLString": null, "isActive": true },
+      { "title": "Batman (1989-1997 Series)", "imageURLString": null, "isActive": true },
+      { "title": "The Boys Universe", "imageURLString": null, "isActive": true },
+      { "title": "Venom Franchise", "imageURLString": null, "isActive": true },
+      { "title": "Watchmen", "imageURLString": null, "isActive": true },
+      { "title": "Spawn", "imageURLString": null, "isActive": true },
+      { "title": "The Crow Series", "imageURLString": null, "isActive": true },
+      { "title": "Constantine", "imageURLString": null, "isActive": true },
+      { "title": "Power Rangers Series", "imageURLString": null, "isActive": true }
+    ]
+  }

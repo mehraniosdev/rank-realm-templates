@@ -3,7 +3,30 @@
     {
       "id": "gaming",
       "name": "Gaming",
-      "templates": []
+      "templates": [
+        {
+          "id": "open_world_games",
+          "title": "Best Open World Games",
+          "description": "Rank the most immersive open-world titles of all time.",
+          "imageURLString": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=256&h=256&fit=crop&fm=webp",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/open_world_games.json",
+          "isForProMember": false,
+          "isNew": true,
+          "isActive": true,
+          "addedDate": "2026-08-25T10:00:00Z"
+        },
+        {
+          "id": "fps_franchises",
+          "title": "FPS Franchises",
+          "description": "Rank iconic first-person shooter series from classic to modern.",
+          "imageURLString": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=256&h=256&fit=crop&fm=webp",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/fps_franchises.json",
+          "isForProMember": true,
+          "isNew": false,
+          "isActive": true,
+          "addedDate": "2026-08-22T09:00:00Z"
+        }
+      ]
     },
     {
       "id": "food_and_drink",
@@ -17,7 +40,19 @@
           "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/pizza_toppings.json",
           "isForProMember": false,
           "isNew": false,
+          "isActive": true,
           "addedDate": "2026-08-21T10:00:00Z"
+        },
+        {
+          "id": "coffee_drinks",
+          "title": "Espresso & Coffee Drinks",
+          "description": "Rank popular espresso drinks from lattes to cold brews.",
+          "imageURLString": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=256&h=256&fit=crop&fm=webp",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/coffee_drinks.json",
+          "isForProMember": false,
+          "isNew": true,
+          "isActive": true,
+          "addedDate": "2026-08-26T11:00:00Z"
         }
       ]
     },
@@ -33,14 +68,38 @@
           "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/horror_movies.json",
           "isForProMember": false,
           "isNew": true,
+          "isActive": true,
           "addedDate": "2026-08-21T12:00:00Z"
+        },
+        {
+          "id": "superhero_movies",
+          "title": "Superhero Franchises",
+          "description": "Rank cinematic superhero franchises and cinematic universes.",
+          "imageURLString": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=256&h=256&fit=crop&fm=webp",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/superhero_movies.json",
+          "isForProMember": true,
+          "isNew": false,
+          "isActive": true,
+          "addedDate": "2026-08-23T14:00:00Z"
         }
       ]
     },
     {
       "id": "animals_and_nature",
       "name": "Animals & Nature",
-      "templates": []
+      "templates": [
+        {
+          "id": "cat_breeds",
+          "title": "Popular Cat Breeds",
+          "description": "Rank affectionate, playful, and majestic cat breeds.",
+          "imageURLString": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=256&h=256&fit=crop&fm=webp",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/cat_breeds.json",
+          "isForProMember": false,
+          "isNew": true,
+          "isActive": true,
+          "addedDate": "2026-08-27T08:00:00Z"
+        }
+      ]
     },
     {
       "id": "tech_and_dev",
@@ -54,34 +113,117 @@
           "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/programming_languages.json",
           "isForProMember": false,
           "isNew": true,
+          "isActive": true,
           "addedDate": "2026-08-21T12:30:00Z"
+        },
+        {
+          "id": "mobile_dev_frameworks",
+          "title": "Mobile UI Frameworks",
+          "description": "Rank native and cross-platform mobile development frameworks.",
+          "imageURLString": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=256&h=256&fit=crop&fm=webp",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/mobile_dev_frameworks.json",
+          "isForProMember": true,
+          "isNew": true,
+          "isActive": true,
+          "addedDate": "2026-08-28T15:00:00Z"
         }
       ]
     },
     {
       "id": "lifestyle_and_fitness",
       "name": "Lifestyle & Fitness",
-      "templates": []
+      "templates": [
+        {
+          "id": "workout_routines",
+          "title": "Fitness & Exercise Types",
+          "description": "Rank popular strength, cardio, and mobility training routines.",
+          "imageURLString": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=256&h=256&fit=crop&fm=webp",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/workout_routines.json",
+          "isForProMember": false,
+          "isNew": false,
+          "isActive": true,
+          "addedDate": "2026-08-24T09:30:00Z"
+        }
+      ]
     },
     {
       "id": "travel_and_places",
       "name": "Travel & Places",
-      "templates": []
+      "templates": [
+        {
+          "id": "bucket_list_cities",
+          "title": "World Bucket List Cities",
+          "description": "Rank top global travel destinations and cultural hubs.",
+          "imageURLString": "https://images.unsplash.com/photo-1477959858617-67f30ac4ce78?w=256&h=256&fit=crop&fm=webp",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/bucket_list_cities.json",
+          "isForProMember": true,
+          "isNew": true,
+          "isActive": true,
+          "addedDate": "2026-08-29T10:00:00Z"
+        }
+      ]
     },
     {
       "id": "music_and_art",
       "name": "Music & Art",
-      "templates": []
+      "templates": [
+        {
+          "id": "music_genres",
+          "title": "Music Genres",
+          "description": "Rank classic and modern music genres by listener preference.",
+          "imageURLString": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=256&h=256&fit=crop&fm=webp",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/music_genres.json",
+          "isForProMember": false,
+          "isNew": false,
+          "isActive": true,
+          "addedDate": "2026-08-20T16:00:00Z"
+        }
+      ]
     },
     {
       "id": "sports_and_hobbies",
       "name": "Sports & Hobbies",
-      "templates": []
+      "templates": [
+        {
+          "id": "global_sports",
+          "title": "Most Popular Global Sports",
+          "description": "Rank international spectator and participation sports.",
+          "imageURLString": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=256&h=256&fit=crop&fm=webp",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/global_sports.json",
+          "isForProMember": false,
+          "isNew": true,
+          "isActive": true,
+          "addedDate": "2026-08-30T12:00:00Z"
+        },
+        {
+          "id": "board_games",
+          "title": "Strategy Board Games",
+          "description": "Rank modern and tabletop classic strategy board games.",
+          "imageURLString": "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?w=256&h=256&fit=crop&fm=webp",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/board_games.json",
+          "isForProMember": true,
+          "isNew": false,
+          "isActive": true,
+          "addedDate": "2026-08-22T18:00:00Z"
+        }
+      ]
     },
     {
       "id": "education_and_study",
       "name": "Education & Self-Improvement",
-      "templates": []
+      "templates": [
+        {
+          "id": "productivity_habits",
+          "title": "Daily Productivity Habits",
+          "description": "Rank morning and daily habits that boost personal efficiency.",
+          "imageURLString": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=256&h=256&fit=crop&fm=webp",
+          "detailURLString": "https://raw.githubusercontent.com/mehraniosdev/rank-realm-templates/main/templates/productivity_habits.json",
+          "isForProMember": false,
+          "isNew": true,
+          "isActive": true,
+          "addedDate": "2026-08-31T09:00:00Z"
+        }
+      ]
     }
   ]
 }

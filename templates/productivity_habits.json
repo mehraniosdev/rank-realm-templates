@@ -1,0 +1,43 @@
+{
+    "id": "productivity_habits",
+    "title": "Daily Productivity Habits",
+    "isActive": true,
+    "defaultTiers": [
+      { "name": "S", "hexColor": "#FF3B30", "orderIndex": 0 },
+      { "name": "A", "hexColor": "#FF9500", "orderIndex": 1 },
+      { "name": "B", "hexColor": "#FFCC00", "orderIndex": 2 },
+      { "name": "C", "hexColor": "#34C759", "orderIndex": 3 },
+      { "name": "D", "hexColor": "#30B0C7", "orderIndex": 4 },
+      { "name": "F", "hexColor": "#8E8E93", "orderIndex": 5 }
+    ],
+    "items": [
+      { "title": "Deep Work Time Blocking", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Calendar_icon.svg/128px-Calendar_icon.svg.png", "isActive": true },
+      { "title": "Consistent 8-Hour Sleep", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Moon_icon.svg/128px-Moon_icon.svg.png", "isActive": true },
+      { "title": "Daily Exercise Routine", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dumbbell_icon.svg/128px-Dumbbell_icon.svg.png", "isActive": true },
+      { "title": "Pomodoro Technique", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Timer_icon.svg/128px-Timer_icon.svg.png", "isActive": true },
+      { "title": "Morning Journaling", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Notebook_icon.svg/128px-Notebook_icon.svg.png", "isActive": true },
+      { "title": "Meditation & Mindfulness", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lotus_icon.svg/128px-Lotus_icon.svg.png", "isActive": true },
+      { "title": "Digital Detox Before Bed", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Smartphone_off_icon.svg/128px-Smartphone_off_icon.svg.png", "isActive": true },
+      { "title": "Daily Reading", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Book_icon.svg/128px-Book_icon.svg.png", "isActive": true },
+      { "title": "Cold Showers", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Water_drop_icon.svg/128px-Water_drop_icon.svg.png", "isActive": true },
+      { "title": "Weekly Goal Review", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Target_icon.svg/128px-Target_icon.svg.png", "isActive": true },
+      { "title": "Inbox Zero Maintenance", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mail_icon.svg/128px-Mail_icon.svg.png", "isActive": true },
+      { "title": "Hydration Tracking (3L/day)", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Glass_of_water_icon.svg/128px-Glass_of_water_icon.svg.png", "isActive": true },
+      { "title": "Making the Bed First Thing", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bed_icon.svg/128px-Bed_icon.svg.png", "isActive": true },
+      { "title": "Preparing Tomorrow's To-Do List Tonight", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Checklist_icon.svg/128px-Checklist_icon.svg.png", "isActive": true },
+      { "title": "Batching Similar Tasks", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Folder_stack_icon.svg/128px-Folder_stack_icon.svg.png", "isActive": true },
+      { "title": "Taking Short Outdoor Walks", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Footsteps_icon.svg/128px-Footsteps_icon.svg.png", "isActive": true },
+      { "title": "Limiting Social Media Screen Time", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hourglass_icon.svg/128px-Hourglass_icon.svg.png", "isActive": true },
+      { "title": "Saying No to Low-Priority Requests", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Prohibition_sign.svg/128px-Prohibition_sign.svg.png", "isActive": true },
+      { "title": "Tracking Daily Expenses", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wallet_icon.svg/128px-Wallet_icon.svg.png", "isActive": true },
+      { "title": "Intermittent Fasting", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Clock_fork_icon.svg/128px-Clock_fork_icon.svg.png", "isActive": true },
+      { "title": "Practicing Daily Gratitude", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_icon.svg/128px-Heart_icon.svg.png", "isActive": true },
+      { "title": "Eating the Frog (Hardest Task First)", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Frog_icon.svg/128px-Frog_icon.svg.png", "isActive": true },
+      { "title": "Desk & Workspace Decluttering", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Desk_icon.svg/128px-Desk_icon.svg.png", "isActive": true },
+      { "title": "Taking Unplugged Meal Breaks", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fork_and_knife_icon.svg/128px-Fork_and_knife_icon.svg.png", "isActive": true },
+      { "title": "Two-Minute Rule for Quick Tasks", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lightning_icon.svg/128px-Lightning_icon.svg.png", "isActive": true },
+      { "title": "Delegating Non-Core Responsibilities", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/People_share_icon.svg/128px-People_share_icon.svg.png", "isActive": true },
+      { "title": "Setting Strict Notification Filters", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bell_off_icon.svg/128px-Bell_off_icon.svg.png", "isActive": true },
+      { "title": "Doing a Weekly Brain Dump", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brain_icon.svg/128px-Brain_icon.svg.png", "isActive": true }
+    ]
+  }

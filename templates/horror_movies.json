@@ -1,37 +1,48 @@
 {
-  "id": "horror_movies",
-  "title": "Classic Horror Movies",
-  "defaultTiers": [
-    { "name": "God Tier", "hexColor": "#FF2D55", "orderIndex": 0 },
-    { "name": "Great", "hexColor": "#FF9500", "orderIndex": 1 },
-    { "name": "Watchable", "hexColor": "#FFCC00", "orderIndex": 2 },
-    { "name": "Overrated", "hexColor": "#8E8E93", "orderIndex": 3 }
-  ],
-  "items": [
-    {
-      "title": "The Shining",
-      "imageURLString": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=128&h=128&fit=crop&fm=webp",
-      "isTextOnly": false
-    },
-    {
-      "title": "Halloween",
-      "imageURLString": "https://images.unsplash.com/photo-1508361001413-7a9dca21d08a?w=128&h=128&fit=crop&fm=webp",
-      "isTextOnly": false
-    },
-    {
-      "title": "Psycho",
-      "imageURLString": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=128&h=128&fit=crop&fm=webp",
-      "isTextOnly": false
-    },
-    {
-      "title": "Alien",
-      "imageURLString": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=128&h=128&fit=crop&fm=webp",
-      "isTextOnly": false
-    },
-    {
-      "title": "The Thing",
-      "imageURLString": "https://images.unsplash.com/photo-1483683804023-6ccdb62f86ef?w=128&h=128&fit=crop&fm=webp",
-      "isTextOnly": false
-    }
-  ]
-}
+    "id": "horror_movies",
+    "title": "Classic Horror Movies",
+    "isActive": true,
+    "defaultTiers": [
+      { "name": "S", "hexColor": "#FF3B30", "orderIndex": 0 },
+      { "name": "A", "hexColor": "#FF9500", "orderIndex": 1 },
+      { "name": "B", "hexColor": "#FFCC00", "orderIndex": 2 },
+      { "name": "C", "hexColor": "#34C759", "orderIndex": 3 },
+      { "name": "D", "hexColor": "#30B0C7", "orderIndex": 4 },
+      { "name": "F", "hexColor": "#8E8E93", "orderIndex": 5 }
+    ],
+    "items": [
+      { "title": "The Shining", "imageURLString": null, "isActive": true },
+      { "title": "The Exorcist", "imageURLString": null, "isActive": true },
+      { "title": "Alien", "imageURLString": null, "isActive": true },
+      { "title": "Halloween (1978)", "imageURLString": null, "isActive": true },
+      { "title": "Psycho", "imageURLString": null, "isActive": true },
+      { "title": "The Thing (1982)", "imageURLString": null, "isActive": true },
+      { "title": "A Nightmare on Elm Street", "imageURLString": null, "isActive": true },
+      { "title": "Scream", "imageURLString": null, "isActive": true },
+      { "title": "Hereditary", "imageURLString": null, "isActive": true },
+      { "title": "The Texas Chain Saw Massacre", "imageURLString": null, "isActive": true },
+      { "title": "Get Out", "imageURLString": null, "isActive": true },
+      { "title": "The Conjuring", "imageURLString": null, "isActive": true },
+      { "title": "The Silence of the Lambs", "imageURLString": null, "isActive": true },
+      { "title": "Rosemary's Baby", "imageURLString": null, "isActive": true },
+      { "title": "Midsommar", "imageURLString": null, "isActive": true },
+      { "title": "The Ring (2002)", "imageURLString": null, "isActive": true },
+      { "title": "Poltergeist (1982)", "imageURLString": null, "isActive": true },
+      { "title": "Evil Dead II", "imageURLString": null, "isActive": true },
+      { "title": "Dawn of the Dead (1978)", "imageURLString": null, "isActive": true },
+      { "title": "28 Days Later", "imageURLString": null, "isActive": true },
+      { "title": "It Follows", "imageURLString": null, "isActive": true },
+      { "title": "The Blair Witch Project", "imageURLString": null, "isActive": true },
+      { "title": "Carrie (1976)", "imageURLString": null, "isActive": true },
+      { "title": "The Babadook", "imageURLString": null, "isActive": true },
+      { "title": "Nosferatu (1922)", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Nosferatu_1922.jpg/128px-Nosferatu_1922.jpg", "isActive": true },
+      { "title": "Hellraiser", "imageURLString": null, "isActive": true },
+      { "title": "The Omen (1976)", "imageURLString": null, "isActive": true },
+      { "title": "Child's Play (1988)", "imageURLString": null, "isActive": true },
+      { "title": "Saw", "imageURLString": null, "isActive": true },
+      { "title": "Insidious", "imageURLString": null, "isActive": true },
+      { "title": "Paranormal Activity", "imageURLString": null, "isActive": true },
+      { "title": "The Wicker Man (1973)", "imageURLString": null, "isActive": true },
+      { "title": "Night of the Living Dead (1968)", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Night_of_the_Living_Dead_poster.jpg/128px-Night_of_the_Living_Dead_poster.jpg", "isActive": true }
+    ]
+  }

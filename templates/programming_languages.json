@@ -1,44 +1,50 @@
 {
-  "id": "programming_languages",
-  "title": "Programming Languages",
-  "defaultTiers": [
-    { "name": "S", "hexColor": "#FF3B30", "orderIndex": 0 },
-    { "name": "A", "hexColor": "#FF9500", "orderIndex": 1 },
-    { "name": "B", "hexColor": "#FFCC00", "orderIndex": 2 },
-    { "name": "C", "hexColor": "#34C759", "orderIndex": 3 },
-    { "name": "D", "hexColor": "#30B0C7", "orderIndex": 4 },
-    { "name": "F", "hexColor": "#8E8E93", "orderIndex": 5 }
-  ],
-  "items": [
-    {
-      "title": "Swift",
-      "imageURLString": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?w=128&h=128&fit=crop&fm=webp",
-      "isTextOnly": false
-    },
-    {
-      "title": "Python",
-      "imageURLString": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=128&h=128&fit=crop&fm=webp",
-      "isTextOnly": false
-    },
-    {
-      "title": "TypeScript",
-      "imageURLString": "https://images.unsplash.com/photo-1516116211223-4c7142b2936c?w=128&h=128&fit=crop&fm=webp",
-      "isTextOnly": false
-    },
-    {
-      "title": "Rust",
-      "imageURLString": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=128&h=128&fit=crop&fm=webp",
-      "isTextOnly": false
-    },
-    {
-      "title": "C++",
-      "imageURLString": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=128&h=128&fit=crop&fm=webp",
-      "isTextOnly": false
-    },
-    {
-      "title": "Go",
-      "imageURLString": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=128&h=128&fit=crop&fm=webp",
-      "isTextOnly": false
-    }
-  ]
-}
+    "id": "programming_languages",
+    "title": "Programming Languages",
+    "isActive": true,
+    "defaultTiers": [
+      { "name": "S", "hexColor": "#FF3B30", "orderIndex": 0 },
+      { "name": "A", "hexColor": "#FF9500", "orderIndex": 1 },
+      { "name": "B", "hexColor": "#FFCC00", "orderIndex": 2 },
+      { "name": "C", "hexColor": "#34C759", "orderIndex": 3 },
+      { "name": "D", "hexColor": "#30B0C7", "orderIndex": 4 },
+      { "name": "F", "hexColor": "#8E8E93", "orderIndex": 5 }
+    ],
+    "items": [
+      { "title": "Swift", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/128px-Swift_logo.svg.png", "isActive": true },
+      { "title": "Python", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/128px-Python-logo-notext.svg.png", "isActive": true },
+      { "title": "TypeScript", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png", "isActive": true },
+      { "title": "Rust", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/128px-Rust_programming_language_black_logo.svg.png", "isActive": true },
+      { "title": "C++", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/128px-ISO_C%2B%2B_Logo.svg.png", "isActive": true },
+      { "title": "Go", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/128px-Go_Logo_Blue.svg.png", "isActive": true },
+      { "title": "Kotlin", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/128px-Kotlin_Icon.png", "isActive": true },
+      { "title": "JavaScript", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/128px-Unofficial_JavaScript_logo_2.svg.png", "isActive": true },
+      { "title": "Java", "imageURLString": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/128px-Java_programming_language_logo.svg.png", "isActive": true },
+      { "title": "C#", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/128px-C_Sharp_Logo_2023.svg.png", "isActive": true },
+      { "title": "PHP", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/128px-PHP-logo.svg.png", "isActive": true },
+      { "title": "Ruby", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/128px-Ruby_logo.svg.png", "isActive": true },
+      { "title": "C", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/128px-C_Programming_Language.svg.png", "isActive": true },
+      { "title": "Objective-C", "imageURLString": null, "isActive": true },
+      { "title": "SQL", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/128px-Sql_data_base_with_logo.png", "isActive": true },
+      { "title": "R", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Rlogo.svg/128px-Rlogo.svg.png", "isActive": true },
+      { "title": "Scala", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/128px-Scala-full-color.svg.png", "isActive": true },
+      { "title": "Haskell", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/128px-Haskell-Logo.svg.png", "isActive": true },
+      { "title": "Lua", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/128px-Lua-Logo.svg.png", "isActive": true },
+      { "title": "Elixir", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Elixir_lang_logo.png/128px-Elixir_lang_logo.png", "isActive": true },
+      { "title": "Dart", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo-400px.png/128px-Dart-logo-400px.png", "isActive": true },
+      { "title": "Zig", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Zig_logo.svg/128px-Zig_logo.svg.png", "isActive": true },
+      { "title": "Assembly", "imageURLString": null, "isActive": true },
+      { "title": "Perl", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Perl_camel.svg/128px-Perl_camel.svg.png", "isActive": true },
+      { "title": "Clojure", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/128px-Clojure_logo.svg.png", "isActive": true },
+      { "title": "Erlang", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Erlang_logo.svg/128px-Erlang_logo.svg.png", "isActive": true },
+      { "title": "F#", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/F_Sharp_logo.svg/128px-F_Sharp_logo.svg.png", "isActive": true },
+      { "title": "Fortran", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fortran_logo.svg/128px-Fortran_logo.svg.png", "isActive": true },
+      { "title": "COBOL", "imageURLString": null, "isActive": true },
+      { "title": "MATLAB", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/128px-Matlab_Logo.png", "isActive": true },
+      { "title": "Julia", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/128px-Julia_Programming_Language_Logo.svg.png", "isActive": true },
+      { "title": "Scheme", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lambda_lc.svg/128px-Lambda_lc.svg.png", "isActive": true },
+      { "title": "Lisp", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/128px-Lisp_logo.svg.png", "isActive": true },
+      { "title": "Groovy", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/128px-Groovy-logo.svg.png", "isActive": true },
+      { "title": "OCaml", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/OCaml_Logo.svg/128px-OCaml_Logo.svg.png", "isActive": true }
+    ]
+  }

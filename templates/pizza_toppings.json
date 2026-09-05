@@ -71,3 +71,52 @@
     }
   ]
 }
+{
+    "id": "pizza_toppings",
+    "title": "Pizza Toppings",
+    "isActive": true,
+    "defaultTiers": [
+      { "name": "S", "hexColor": "#FF3B30", "orderIndex": 0 },
+      { "name": "A", "hexColor": "#FF9500", "orderIndex": 1 },
+      { "name": "B", "hexColor": "#FFCC00", "orderIndex": 2 },
+      { "name": "C", "hexColor": "#34C759", "orderIndex": 3 },
+      { "name": "D", "hexColor": "#30B0C7", "orderIndex": 4 },
+      { "name": "F", "hexColor": "#8E8E93", "orderIndex": 5 }
+    ],
+    "items": [
+      { "title": "Pepperoni", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pepperoni_01.JPG/128px-Pepperoni_01.JPG", "isActive": true },
+      { "title": "Mushrooms", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Button_mushrooms.jpg/128px-Button_mushrooms.jpg", "isActive": true },
+      { "title": "Extra Cheese", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Grated_cheese.jpg/128px-Grated_cheese.jpg", "isActive": true },
+      { "title": "Italian Sausage", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sausage.jpg/128px-Sausage.jpg", "isActive": true },
+      { "title": "Bacon", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cooked_bacon.jpg/128px-Cooked_bacon.jpg", "isActive": true },
+      { "title": "Pineapple", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pineapple_and_cross_section.jpg/128px-Pineapple_and_cross_section.jpg", "isActive": true },
+      { "title": "Onions", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Red_Onion.jpg/128px-Red_Onion.jpg", "isActive": true },
+      { "title": "Fresh Basil", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Basil-Basilico-Ocimum_basilicum-Leaf.jpg/128px-Basil-Basilico-Ocimum_basilicum-Leaf.jpg", "isActive": true },
+      { "title": "Black Olives", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Black_olives.jpg/128px-Black_olives.jpg", "isActive": true },
+      { "title": "Jalapeños", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jalape%C3%B1o_peppers.jpg/128px-Jalape%C3%B1o_peppers.jpg", "isActive": true },
+      { "title": "Green Bell Peppers", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Green_bell_pepper.jpg/128px-Green_bell_pepper.jpg", "isActive": true },
+      { "title": "Anchovies", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Anchovies.jpg/128px-Anchovies.jpg", "isActive": true },
+      { "title": "Grilled Chicken", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Grilled_chicken_breast.jpg/128px-Grilled_chicken_breast.jpg", "isActive": true },
+      { "title": "Spinach", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Spinach_leaves.jpg/128px-Spinach_leaves.jpg", "isActive": true },
+      { "title": "Prosciutto", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Prosciutto_di_Parma.jpg/128px-Prosciutto_di_Parma.jpg", "isActive": true },
+      { "title": "Garlic", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Garlic_cloves.jpg/128px-Garlic_cloves.jpg", "isActive": true },
+      { "title": "Sun-Dried Tomatoes", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sun-dried_tomatoes.jpg/128px-Sun-dried_tomatoes.jpg", "isActive": true },
+      { "title": "Artichoke Hearts", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Artichoke_hearts.jpg/128px-Artichoke_hearts.jpg", "isActive": true },
+      { "title": "Ham", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sliced_ham.jpg/128px-Sliced_ham.jpg", "isActive": true },
+      { "title": "Feta Cheese", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Feta_cheese.jpg/128px-Feta_cheese.jpg", "isActive": true },
+      { "title": "Ricotta", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ricotta_cheese.jpg/128px-Ricotta_cheese.jpg", "isActive": true },
+      { "title": "Banana Peppers", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Banana_peppers.jpg/128px-Banana_peppers.jpg", "isActive": true },
+      { "title": "Red Pepper Flakes", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Crushed_red_pepper.jpg/128px-Crushed_red_pepper.jpg", "isActive": true },
+      { "title": "Truffle Oil", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Truffle_oil.jpg/128px-Truffle_oil.jpg", "isActive": true },
+      { "title": "Salami", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Salami_slices.jpg/128px-Salami_slices.jpg", "isActive": true },
+      { "title": "Green Olives", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Green_olives.jpg/128px-Green_olives.jpg", "isActive": true },
+      { "title": "Meatballs", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Italian_meatballs.jpg/128px-Italian_meatballs.jpg", "isActive": true },
+      { "title": "Caramelized Onions", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Caramelized_onions.jpg/128px-Caramelized_onions.jpg", "isActive": true },
+      { "title": "Pesto", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pesto_sauce.jpg/128px-Pesto_sauce.jpg", "isActive": true },
+      { "title": "Gorgonzola", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gorgonzola_cheese.jpg/128px-Gorgonzola_cheese.jpg", "isActive": true },
+      { "title": "Capocollo", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Capocollo_slices.jpg/128px-Capocollo_slices.jpg", "isActive": true },
+      { "title": "Roasted Red Peppers", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Roasted_red_peppers.jpg/128px-Roasted_red_peppers.jpg", "isActive": true },
+      { "title": "Sweet Corn", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sweet_corn.jpg/128px-Sweet_corn.jpg", "isActive": true },
+      { "title": "Arugula", "imageURLString": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Arugula_leaves.jpg/128px-Arugula_leaves.jpg", "isActive": true }
+    ]
+  }
